@@ -100,5 +100,11 @@
     margin-left: 1px;
   }
 
-
+  @media only screen and (max-width:767px ) and (min-width: 370px){
+    .fotos-derecha{
+        width: 120%;
+        height: 60.6%;
+        border: 2px solid black;
+    }
+}
  
